@@ -1,3 +1,0 @@
-interface MessageBodyReq {
-    message:string
-}
